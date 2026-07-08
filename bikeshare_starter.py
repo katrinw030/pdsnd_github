@@ -1,6 +1,7 @@
 import time
 import pandas as pd
 import numpy as np
+import timezone
 import pytz
 
 CITY_DATA = { 'chicago': 'chicago.csv',
@@ -84,6 +85,7 @@ def station_stats(df):
 
 def raw_data(df):
     """Displays raw data for selected city."""
+    
     print('\nDisplaying of raw data...\n')
 
 def trip_duration_stats(df):
