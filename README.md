@@ -21,5 +21,4 @@ The goal of the **Bikeshare Project** is to use Python to explore data related t
 * time
 * pandas as pd
 * numpy as np
-* pytz
 
