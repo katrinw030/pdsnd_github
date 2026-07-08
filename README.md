@@ -1,7 +1,7 @@
 # Bikeshare Project Information
 
 ## Description
-<p>The goal of the ***Bikeshare project*** is to use Python to explore data related to bike share systems. It includes one Python file and three data files for <strong>Chicago</strong>, <strong>New York City</strong>, and <strong>Washington</strong>. An <strong>interactive terminal</strong> allows the user to explore this data and receives statistical analyses as a result.</p>
+<p>The goal of the <span style="color:red">**Bikeshare Project**</span> is to use Python to explore data related to bike share systems. It includes one Python file and three data files for <strong>Chicago</strong>, <strong>New York City</strong>, and <strong>Washington</strong>. An <strong>interactive terminal</strong> allows the user to explore this data and receives statistical analyses as a result.</p>
 
 ### Examples of Statistical Analyses
 <ul>
