@@ -17,3 +17,9 @@ The goal of the **Bikeshare Project** is to use Python to explore data related t
     <li>washington.csv</li>
 </ul>
 
+## Libraries used
+* time
+* pandas as pd
+* numpy as np
+* pytz
+
