@@ -84,6 +84,7 @@ def station_stats(df):
 
 def raw_data(df):
     """Displays raw data for selected city."""
+    
     print('\nDisplaying of raw data...\n')
 
 def trip_duration_stats(df):
